@@ -1,7 +1,7 @@
 {
-  "name": "باقيات | صدقة جارية",
-  "short_name": "باقيات - صدقة جارية",
-  "description": "قرآن وأذكار وأحاديث وقصص ودروس نافعة — صدقة جارية.",
+  "name": "محمود | صدقة جارية",
+  "short_name":  "الشهيد/ محمود أبو جراد",
+  "description": " قرآن وأذكار وأحاديث وقصص ودروس نافعة — صدقة جارية عن روح الشهيد.",
   "lang": "ar",
   "dir": "rtl",
   "start_url": "./",
@@ -12,19 +12,19 @@
   "theme_color": "#174c3b",
   "icons": [
     {
-      "src": "ma1.png",
+      "src": "mahmoudabujarad.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "ma1.png",
+      "src": "mahmoudabujarad.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "ma1.png",
+      "src": "mahmoudabujarad.png",
       "sizes": "any",
       "type": "image/png",
       "purpose": "any maskable"
